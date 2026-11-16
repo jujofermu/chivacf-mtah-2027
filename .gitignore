@@ -1,0 +1,14 @@
+﻿# Datos confidenciales del partido (PROHIBIDO subir)
+data/
+challenge data/
+evaluation/gt/
+evaluation/reports/
+*.mp4
+*.xml
+*.csv
+*.pyc
+__pycache__/
+
+# Ignorar resultados locales pero mantener la carpeta vacía
+evaluation/results/*
+!evaluation/results/.gitkeep
